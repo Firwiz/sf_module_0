@@ -26,7 +26,3 @@ def game_core_v3(number):
         print(count)
 
 game_core_v3(5)
-
-
-
-aaaaaaaaaa
